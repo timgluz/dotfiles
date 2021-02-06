@@ -1,0 +1,14 @@
+# pack-refs with: peeled fully-peeled sorted 
+8bfae07a79ff8b13ec34509d7d3059cf2a15f11d refs/remotes/origin/clearall_fix
+2eda077387964251c9855aa1feb74a0efa3c25a5 refs/remotes/origin/custom-exec
+5819a4dc524106106ff21abeb5d05083b5f6eacf refs/remotes/origin/delgado
+8245c63df5cbd0344f0f133542d970d170752ff4 refs/remotes/origin/escaped-paths
+1e1df3975dd8eadb6fb7dcacbcf9933fa3cf9575 refs/remotes/origin/extra-flags
+309beb503b19a4626fbaa39023390823bbee71c8 refs/remotes/origin/fix-looponfail
+1838068416e9dfba22cd4127811259d9dda8f861 refs/remotes/origin/issue23
+c7cf070e792c4cddfbfca057bf28c91faeb364d8 refs/remotes/origin/issue24
+3390a472f274cdb5dda2e31e7583532b33ade240 refs/remotes/origin/master
+455889dcd4a69cfced3526cd838fa66636d3585c refs/remotes/origin/neovim-fix
+dad8a59d7f1a7f40afe2d22f0f6c26bc47fb629c refs/remotes/origin/neovim-support
+81c9412d1dabc4def7af69d37b1de2132f51808c refs/remotes/origin/open-error-window
+a7abab2622021ca657f01fe4b5dce91dcafb39ee refs/remotes/origin/parametrized-fix
